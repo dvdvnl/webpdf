@@ -1,0 +1,13 @@
+{
+  "name": "pdf-creator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "author": "David Von Leon <dvl@systems.bz>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "puppeteer": "^1.13.0",
+    "uniqid": "^5.0.3"
+  }
+}
